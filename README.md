@@ -1,10 +1,11 @@
 # dbpoo.device
 
 ### 判断微信
-'''javascript
+```javascript
 if(Device.os.weixin){
   alert('微信')
 }
+```
 
 ### 判断苹果系统
 ```javascript
